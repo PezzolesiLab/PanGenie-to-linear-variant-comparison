@@ -9,6 +9,8 @@ Commands are shown as they are run from a phenotype-specific working directory.
 Local inputs are represented with placeholders rather than machine-specific
 paths.
 
+This repository contains very specific and custom scripts deposited for the purpose of review and replication of the study results, not as a reusable pipeline to be applied for other studies.
+
 ## Placeholder Inputs
 
 - `<analysis_scripts>`: directory containing the analysis scripts.
